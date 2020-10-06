@@ -26,7 +26,7 @@ If there's any you recommend I use, feel free to send me a PR.
 * [IntelliSense for CSS class names in HTML](https://github.com/Zignd/HTML-CSS-Class-Completion)
 * [ES6 code snippets](https://github.com/xabikos/vscode-javascript)
 * [jumpy](https://github.com/wmaurer/vscode-jumpy)
-* [Night Owl Theme](https://github.com/sdras/night-owl-vscode-theme)
+* [Moonlight 2 Theme (with glow)](https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight)
 * [NPM support](https://github.com/Microsoft/vscode-npm-scripts)
 * [NPM Intellisense](https://github.com/ChristianKohler/NpmIntellisense)
 * [Open in Browser](https://github.com/igorskyflyer/vscode-open-in-browser)
